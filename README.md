@@ -45,7 +45,7 @@ o Texture mapping
 The project consists of two parts as described below:
 
 1) Generate a static computer image of a 2D / 3D scene with
-2) 
+
 a. a ground plane or floor with gridlines;
 
 b. a sphere floating in the air;
