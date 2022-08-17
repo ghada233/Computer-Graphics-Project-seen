@@ -15,11 +15,11 @@ translate and rotate the scene, texturemapping tomap a texture
 to the spheres, and light/light reflection tomake some
 photorealismto the graphic. :earth_africa:
 
-2.Sample output
+2. Sample output
 ----------------------------------------------------------------
 ![Picture1](https://user-images.githubusercontent.com/70041510/185125558-eb6d26c6-8e35-4001-8ba8-c8acc186373f.png)
 
-3.Requirements our project :round_pushpin:
+3. Requirements our project :round_pushpin:
 ----------------------------------------------------------------
 > Important Elements:
 Your project should contain at least one instance of each topic covered during the labs:
@@ -64,3 +64,6 @@ c. when left clicking the mouse anywhere in the space, both the sphere and the o
 choice would move towards the present mouse location.
 
 d. when pressing the key “r”, reset the scene to its initial state
+
+-------------------------------------------------------------------------------------
+This repo contains Ghadah & Wardah & MUTYIAH &Ghadah attempt to building view in creative way :sun_with_face:
