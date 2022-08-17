@@ -25,26 +25,42 @@ photorealismto the graphic. :earth_africa:
 Your project should contain at least one instance of each topic covered during the labs:
 
 o Primitive shapes: points, lines, polygons, …etc.
+
 o 3d shapes: cubes, teapots, cones, … etc.
+
 o Colors: background, filling objects
+
 o Modeling transformation or Clipping
+
 o Keyboard/ or mouse events
+
 o Lighting
+
 o Reflection of light sources
+
 o Texture mapping
 
 >Project Description
+
 The project consists of two parts as described below:
+
 1) Generate a static computer image of a 2D / 3D scene with
+2) 
 a. a ground plane or floor with gridlines;
+
 b. a sphere floating in the air;
+
 c. an object of your choice other than a sphere (e.g. a teapot or a cube) sitting on the floor;
 
 2) Make the 3D scene implemented in Part 1) interactive and dynamic:
+
 a. when pressing the key “d”, the floating sphere would drop, bounce, and eventually stay on
 the floor.
+
 b. when pressing the left or right arrow key, the object of your choice would rotate for a
 certain degree.
+
 c. when left clicking the mouse anywhere in the space, both the sphere and the object of your
 choice would move towards the present mouse location.
+
 d. when pressing the key “r”, reset the scene to its initial state
