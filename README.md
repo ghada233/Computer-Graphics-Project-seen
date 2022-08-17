@@ -46,24 +46,26 @@ The project consists of two parts as described below:
 
 1) Generate a static computer image of a 2D / 3D scene with
 
-a. a ground plane or floor with gridlines;
+ a. a ground plane or floor with gridlines
 
-b. a sphere floating in the air;
+ b. a sphere floating in the air
 
-c. an object of your choice other than a sphere (e.g. a teapot or a cube) sitting on the floor;
+ c. an object of your choice other than a sphere (e.g. a teapot or a cube) sitting on the floor
+
+-------------------------------------------------------------------------------
 
 2) Make the 3D scene implemented in Part 1) interactive and dynamic:
 
-a. when pressing the key “d”, the floating sphere would drop, bounce, and eventually stay on
-the floor.
+ a. when pressing the key “d”, the floating sphere would drop, bounce, and eventually stay on
+ the floor.
 
-b. when pressing the left or right arrow key, the object of your choice would rotate for a
-certain degree.
+ b. when pressing the left or right arrow key, the object of your choice would rotate for a
+ certain degree.
 
-c. when left clicking the mouse anywhere in the space, both the sphere and the object of your
-choice would move towards the present mouse location.
+ c. when left clicking the mouse anywhere in the space, both the sphere and the object of your
+ choice would move towards the present mouse location.
 
-d. when pressing the key “r”, reset the scene to its initial state
+ d. when pressing the key “r”, reset the scene to its initial state
 
 -------------------------------------------------------------------------------------
 This repo contains Ghadah & Wardah & MUTYIAH &Ghadah attempt to building view in creative way :sun_with_face:
