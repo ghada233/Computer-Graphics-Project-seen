@@ -69,3 +69,7 @@ The project consists of two parts as described below:
 
 -------------------------------------------------------------------------------------
 This repo contains Ghadah & Wardah & MUTYIAH &Ghadah attempt to building view in creative way :sun_with_face:
+
+A project submitted for Graphics Computer  System course – CS 451
+
+Instructor: Dr. NAHLA JAMAL  ABID
