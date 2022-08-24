@@ -72,4 +72,4 @@ This repo contains Ghadah & Wardah & MUTYIAH &Ghadah attempt to building view in
 
 A project submitted for Graphics Computer  System course – CS 451
 
-Instructor: Dr. NAHLA JAMAL  ABID
+Instructor: Dr. NAHLA JAMAL ABID
